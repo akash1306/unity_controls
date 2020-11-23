@@ -7,3 +7,4 @@
 subdirs("gtest")
 subdirs("decoder")
 subdirs("key_controls")
+subdirs("misc")

@@ -133,6 +133,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/akash/unity_controls/build/gtest/cmake_install.cmake")
   include("/home/akash/unity_controls/build/decoder/cmake_install.cmake")
   include("/home/akash/unity_controls/build/key_controls/cmake_install.cmake")
+  include("/home/akash/unity_controls/build/misc/cmake_install.cmake")
 
 endif()
 

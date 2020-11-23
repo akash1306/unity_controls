@@ -8,3 +8,4 @@
 
 # modified environment variables
 export PWD='/home/akash/unity_controls/build'
+export PYTHONPATH="/home/akash/unity_controls/devel/lib/python2.7/dist-packages:$PYTHONPATH"
