@@ -1,0 +1,8 @@
+prefix=/home/akash/unity_controls/install
+
+Name: decoder
+Description: Description of decoder
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
